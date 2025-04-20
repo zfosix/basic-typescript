@@ -5,4 +5,4 @@ Belajar dasar-dasar manipulasi data pakai **TypeScript**, dari array, object, sa
 ## 🚀 Jalankan
 
 ```bash
-tsc && node bundle/index.js
+terserah 🫢
